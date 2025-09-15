@@ -29,7 +29,7 @@ El sistema asegura que no se repitan nombres sorteados y muestra un mensaje cuan
 ┣ app.js
 ┣ style.css
 
-##Ejecución
+## Ejecución
 
 - Escribe el nombre de tus amigos en el campo de texto y presiona "Añadir".
 - La lista se irá llenando automáticamente.
@@ -38,7 +38,7 @@ El sistema asegura que no se repitan nombres sorteados y muestra un mensaje cuan
 - Cuando ya no queden nombres, se mostrará el mensaje:
 - "Todos los nombres fueron sorteados."
 
-##Posibles problemas y soluciones
+## Posibles problemas y soluciones
 
 - No aparece el resultado del sorteo:
  - Verifica que hayas agregado al menos un nombre antes de presionar "Sortear".
